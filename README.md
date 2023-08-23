@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Rabindra Kumar Rauta
+
+#### About Me
+I'm Rabindra Kumar Rauta, a recent Computer Science B-Tech graduate with a passion for exploring the world of Data Science. Python enthusiast skilled in data analytics, machine learning, and data science techniques. My journey involves translating data into insights and leveraging the power of code to unravel complex challenges. Excited about collaborations that merge innovation with data-driven solutions. Let's connect on LinkedIn and embark on a data-driven journey together!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codeworld9861&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **codeworld9861/codeworld9861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
